@@ -1,1 +1,2 @@
-# sql2
+# flask_test
+Basic flask server
